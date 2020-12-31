@@ -201,4 +201,5 @@ email = Email(
     mail_host=global_config.getRaw('messenger', 'email_host'),
     mail_user=global_config.getRaw('messenger', 'email_user'),
     mail_pwd=global_config.getRaw('messenger', 'email_pwd'),
+    # 测试配置信息
 )
